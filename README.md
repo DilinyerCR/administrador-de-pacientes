@@ -10,7 +10,7 @@ El proyecto está diseñado con una arquitectura **componentizada** bajo el stac
 
 | Tipo | Enlace |
 | :---- | :---- |
-| **Aplicación en Vivo (Demo)** | 👉 [Ver en Vercel](https://mi-todo-app.vercel.app) |
+| **Aplicación en Vivo (Demo)** | 👉 [Ver en Netlify](https://administrador-de-pacientes-cr.netlify.app/) |
 
 ### **📸 Vistazo Rápido (UX/UI)**
 
@@ -57,7 +57,7 @@ El proyecto sigue una estructura modular para mantener la separación de respons
 ### **💻 Instalación y Ejecución Local**
 
 1. **Clonar el repositorio:**  
-   git clone \[https://github.com/tu-usuario/administrador-de-pacientes.git\](https://github.com/tu-usuario/administrador-de-pacientes.git)  
+   git clone [https://github.com/DilinyerCR/administrador-de-pacientes.git](https://github.com/DilinyerCR/administrador-de-pacientes.git)  
    cd administrador-de-pacientes
 
 2. **Instalar dependencias:**  
