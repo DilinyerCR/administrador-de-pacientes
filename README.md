@@ -18,8 +18,7 @@ El diseño se enfoca en la usabilidad y una experiencia **Mobile-First** gracias
 
 | Vista Desktop | Vista Mobile |
 | :---- | :---- |
-| [Vista Desktop](./design/administrador-de-pacientes-desktop.png) |
-| [Vista Mobile](./design/administrador-de-pacientes-mobile.png) |
+| [Vista Desktop](./design/administrador-de-pacientes-desktop.png) | [Vista Mobile](./design/administrador-de-pacientes-mobile.png) |
 
 ### **🎯 Características Destacadas**
 
